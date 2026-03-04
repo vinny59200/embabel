@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: wikidemo
+
+server:
+  port: 8080
+
+embabel:
+  models:
+    default-llm: noop
